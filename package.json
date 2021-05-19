@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Social Network built with the MERN Stack",
   "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
   "repository": "https://github.com/jshaw990/MERN_Social_Network.git",
   "author": "Jayden Shaw <jayden.shaw@gmail.com>",
   "license": "(MIT)",
